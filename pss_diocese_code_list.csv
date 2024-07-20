@@ -1,0 +1,177 @@
+code,Diocese,code_as_int
+0101,"Birmingham, AL",101
+0102,"Mobile, AL",102
+0201,"Anchorage, AK",201
+0202,"Fairbanks, AK",202
+0203,"Juneau, AK",203
+0401,"Phoenix, AZ",401
+0402,"Tucson, AZ",402
+0501,"Little Rock, AR",501
+0601,"Los Angeles, CA",601
+0602,"San Francisco, CA",602
+0603,"Fresno, CA",603
+0604,"Monterey, CA",604
+0605,"Oakland, CA",605
+0606,"Orange, CA",606
+0607,"Sacramento, CA",607
+0608,"San Bernardino, CA",608
+0609,"San Diego, CA",609
+0610,"San Jose, CA",610
+0611,"Santa Rosa, CA",611
+0612,"Stockton, CA",612
+0801,"Denver, CO",801
+0802,"Colorado Springs, CO",802
+0803,"Pueblo, CO",803
+0901,"Hartford, CT",901
+0902,"Bridgeport, CT",902
+0903,"Norwich, CT",903
+1001,"Wilmington, DE",1001
+1101,"Washington, DC",1101
+1201,"Miami, FL",1201
+1202,"Pensacola-Tallahassee, FL",1202
+1203,"Orlando, FL",1203
+1204,"Palm Beach, FL",1204
+1205,"St. Augustine, FL",1205
+1206,"St. Petersburg, FL",1206
+1207,"Venice, FL",1207
+1301,"Atlanta, GA",1301
+1302,"Savannah, GA",1302
+1501,"Honolulu, HI",1501
+1601,"Boise, ID",1601
+1701,"Chicago, IL",1701
+1702,"Belleville, IL",1702
+1703,"Joliet, IL",1703
+1704,"Peoria, IL",1704
+1705,"Rockford, IL",1705
+1706,"Springfield, IL",1706
+1801,"Indianapolis, IN",1801
+1802,"Evansville, IN",1802
+1803,"Ft. Wayne-South Bend, IN",1803
+1804,"Gary, IN",1804
+1805,"Lafayette, IN",1805
+1901,"Dubuque, IA",1901
+1902,"Davenport, IA",1902
+1903,"Des Moines, IA",1903
+1904,"Sioux City, IA",1904
+2001,"Kansas City, KS",2001
+2002,"Dodge City, KS",2002
+2003,"Salina, KS",2003
+2004,"Wichita, KS",2004
+2101,"Louisville, KY",2101
+2102,"Covington, KY",2102
+2103,"Lexington, KY",2103
+2104,"Owensboro, KY",2104
+2201,"New Orleans, LA",2201
+2202,"Alexandria, LA",2202
+2203,"Baton Rouge, LA",2203
+2204,"Houma-Thibodaux, LA",2204
+2205,"Lafayette, LA",2205
+2206,"Lake Charles, LA",2206
+2207,"Shreveport, LA",2207
+2301,"Portland, ME",2301
+2401,"Baltimore, MD",2401
+2501,"Boston, MA",2501
+2502,"Fall River, MA",2502
+2503,"Springfield, MA",2503
+2504,"Worcester, MA",2504
+2601,"Detroit, MI",2601
+2602,"Grand Rapids, MI",2602
+2603,"Gaylord, MI",2603
+2604,"Kalamazoo, MI",2604
+2605,"Lansing, MI",2605
+2606,"Marquette, MI",2606
+2607,"Saginaw, MI",2607
+2701,"St. Paul-Minneapolis, MN",2701
+2702,"Crookston, MN",2702
+2703,"Duluth, MN",2703
+2704,"New Ulm, MN",2704
+2705,"St. Cloud, MN",2705
+2706,"Winona, MN",2706
+2801,"Biloxi, MS",2801
+2802,"Jackson, MS",2802
+2901,"St. Louis, MO",2901
+2902,"Jefferson City, MO",2902
+2903,"Kansas City-St. Joseph, MO",2903
+2904,"Springfield-Cape Girardeau, MO",2904
+3001,"Great Falls-Billings, MT",3001
+3002,"Helena, MT",3002
+3101,"Omaha, NE",3101
+3102,"Grand Island, NE",3102
+3103,"Lincoln, NE",3103
+3201,"Las Vegas, NV",3201
+3202,"Reno, NV",3202
+3301,"Manchester, NH",3301
+3401,"Newark, NJ",3401
+3402,"Camden, NJ",3402
+3403,"Metuchen, NJ",3403
+3404,"Paterson, NJ",3404
+3405,"Trenton, NJ",3405
+3501,"Santa Fe, NM",3501
+3502,"Gallup, NM",3502
+3503,"Las Cruces, NM",3503
+3601,"New York, NY",3601
+3602,"Albany, NY",3602
+3603,"Brooklyn, NY",3603
+3604,"Buffalo, NY",3604
+3605,"Ogdensburg, NY",3605
+3606,"Rochester, NY",3606
+3607,"Rockville Centre, NY",3607
+3608,"Syracuse, NY",3608
+3701,"Charlotte, NC",3701
+3702,"Raleigh, NC",3702
+3801,"Bismarck, ND",3801
+3802,"Fargo, ND",3802
+3901,"Cincinnati, OH",3901
+3902,"Cleveland, OH",3902
+3903,"Columbus, OH",3903
+3904,"Steubenville, OH",3904
+3905,"Toledo, OH",3905
+3906,"Youngstown, OH",3906
+4001,"Oklahoma City, OK",4001
+4002,"Tulsa, OK",4002
+4101,"Portland, OR",4101
+4102,"Baker, OR",4102
+4201,"Philadelphia, PA",4201
+4202,"Allentown, PA",4202
+4203,"Altoona-Johnstown, PA",4203
+4204,"Erie, PA",4204
+4205,"Greensburg, PA",4205
+4206,"Harrisburg, PA",4206
+4207,"Pittsburgh, PA",4207
+4208,"Scranton, PA",4208
+4401,"Providence, RI",4401
+4501,"Charleston, SC",4501
+4601,"Rapid City, SD",4601
+4602,"Sioux Falls, SD",4602
+4701,"Knoxville, TN",4701
+4702,"Memphis, TN",4702
+4703,"Nashville, TN",4703
+4801,"San Antonio, TX",4801
+4802,"Amarillo, TX",4802
+4803,"Austin, TX",4803
+4804,"Beaumont, TX",4804
+4805,"Brownsville, TX",4805
+4806,"Corpus Christi, TX",4806
+4807,"Dallas, TX",4807
+4808,"El Paso, TX",4808
+4809,"Ft. Worth, TX",4809
+4810,"Galveston-Houston, TX",4810
+4811,"Lubbock, TX",4811
+4812,"San Angelo, TX",4812
+4813,"Tyler, TX",4813
+4814,"Victoria, TX",4814
+4815,"Laredo, TX",4815
+4901,"Salt Lake, UT",4901
+5001,"Burlington, VT",5001
+5101,"Arlington, VA",5101
+5102,"Richmond, VA",5102
+5301,"Seattle, WA",5301
+5302,"Spokane, WA",5302
+5303,"Yakima, WA",5303
+5401,"Wheeling-Charleston, WV",5401
+5501,"Milwaukee, WI",5501
+5502,"Green Bay, WI",5502
+5503,"La Crosse, WI",5503
+5504,"Madison, WI",5504
+5505,"Superior, WI",5505
+5601,"Cheyenne, WY",5601
