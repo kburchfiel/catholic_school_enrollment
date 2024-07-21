@@ -4,7 +4,7 @@
 
 # This file was copied from the file of the same name within the Mapping
 # section of my Python for Nonprofits project, available at:
-# https://github.com/kburchfiel/pfn_2/tree/main/Mapping
+# https://github.com/kburchfiel/pfn/tree/main/Mapping
 
 # For examples of these functions in use, visit choropleth_maps.ipynb.
 
