@@ -4,6 +4,8 @@ By Kenneth Burchfiel
 
 Released under the MIT License
 
+Note: Many of the interactive charts, maps, and tables created within this project can be viewed on [this Google Sites page](https://sites.google.com/view/catholic-enrollment-trends/home).
+
 [More documentation to come!]
 
 This project, still a work in progress, visualizes and maps Catholic school enrollment changes over time (as indicated by NCES Private School Universe Survey data) at the state, county, and diocesan level.
